@@ -2,29 +2,38 @@
 
 # ⚡ KHUSHHAL SHARMA
 
-### AI Automation • Web Development • Digital Systems
+### `AI × WEB × AUTOMATION`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Building+AI-powered+digital+systems;Web+%2B+AI+%2B+Automation;Turning+ideas+into+working+products;Building+useful+things+from+scratch" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=760&lines=Building+AI-powered+digital+systems;Web+Development+%2B+AI+Automation;Turning+ideas+into+working+products;Building+QRAZEN+%2B+Pragati+Sahayak" alt="Khushhal Sharma"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00D9FF?style=for-the-badge" alt="Building"/>
+
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20WEB%20%2B%20AUTOMATION-111827?style=for-the-badge" alt="AI Web Automation"/>
 
 <br><br>
 
 <a href="https://github.com/khu47029">
-<img src="https://komarev.com/ghpvc/?username=khu47029&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/GITHUB-KHUSHHAL-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://github.com/khu47029?tab=followers">
-<img src="https://img.shields.io/github/followers/khu47029?style=for-the-badge&color=111827&label=FOLLOWERS" alt="Followers"/>
+
+<a href="https://qr-website-ivory.vercel.app/">
+<img src="https://img.shields.io/badge/QRAZEN-LIVE-00A67E?style=for-the-badge&logo=vercel&logoColor=white" alt="QRAZEN"/>
 </a>
-<a href="https://github.com/khu47029?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+
+<a href="https://pragatisahayak.in/">
+<img src="https://img.shields.io/badge/PRAGATI_SAHAYAK-LIVE-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Pragati Sahayak"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BUILDING-WEB%20%2B%20AI%20%2B%20AUTOMATION-0ea5e9?style=for-the-badge" alt="Building Web AI Automation"/>
+> Building practical digital systems with **AI, automation and modern web technology.**
 
 </div>
 
 ---
+
 
 # 👋 About Me
 
