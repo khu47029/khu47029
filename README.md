@@ -85,9 +85,13 @@ Languages
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=khu47029&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="180" alt="GitHub statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khu47029&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="180" alt="Top languages"/></div><br/><div align="center"><img src="https://streak-stats.demolab.com?user=khu47029&theme=transparent&hide_border=true" alt="GitHub streak"/></div>---
 
-🐍 Contribution Journey
+## 🐍 Contribution Journey
 
-<div align="center"><img src="https://raw.githubusercontent.com/khu47029/khu47029/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/></div>---
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/khu47029/khu47029/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 🎯 Current Focus
 
