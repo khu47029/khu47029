@@ -93,6 +93,14 @@ Languages
 
 </div>
 
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/khu47029/khu47029/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph"/>
+
+</div>
+
 🎯 Current Focus
 
 ┌─────────────────────────────────────────────────────────────┐
