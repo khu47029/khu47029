@@ -33,7 +33,63 @@
 </div>
 
 ---
+<div align="center">
 
+# 🚧 CURRENTLY BUILDING
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔗 QRAZEN
+
+**QR Content Gateway**
+
+QR → Content → Access
+
+`Next.js` `React` `TypeScript`
+
+<a href="https://qr-website-ivory.vercel.app/">
+LIVE PROJECT →
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 PRAGATI SAHAYAK
+
+**AI Business Growth System**
+
+Business → AI → Automation
+
+`AI` `Automation` `SEO`
+
+<a href="https://pragatisahayak.in/">
+LIVE PROJECT →
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧪 AI LAB
+
+**Exploring & Building**
+
+AI Agents → APIs → Workflows
+
+`AI` `n8n` `APIs`
+
+BUILDING →
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 # 👋 About Me
 
